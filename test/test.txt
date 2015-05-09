@@ -1,0 +1,7 @@
+/packaging.svg
+/folder/plush.svg
+poor_quality.svg
+without_extension
+
+.svg
+one.two.three
